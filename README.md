@@ -1,1 +1,5 @@
 # Deep-Learning-for-Seismic-Data-Semantic-Segmentation
+
+Drilling for oil and gas is an expensive and time-consuming process. Companies in the oil and gas industry invest millions of dollars in an effort to improve their understanding of subsurface components, and using traditional workflows for interpreting large volumes of seismic data is an important part of this effort. Manually defining links between geological characteristics and seismic patterns is required by geoscientists. As a result, geologists and oil and gas industry businesses resorted to a seismic survey, in which seismic waves provide a wealth of information about what is inside the earth without the need to dig. The main of this paper concerns the identification of salt layers of a seismic image by a computer which often coexist with gas and oil under the ground by proposing a deep Learning for seismic analysis. We propose U-net architecture to discover seismic data. Moreover, we study the data augmentation with U-net architecture. The result of data augmentation can perform 10% the U-net architecture model.
+
+Paper https://link.springer.com/chapter/10.1007/978-3-030-96311-8_44
